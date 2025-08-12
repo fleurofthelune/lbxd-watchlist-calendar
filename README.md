@@ -48,7 +48,7 @@ No external requests. No tracking. Not affiliated with Letterboxd.
 
 ## Donate
 If this improves your Letterboxd workflow, you can support ongoing maintenance here:  
-**Ko-fi:** https://ko-fi.com/<Ko-fi.com/fleurofthelunee>
+**Ko-fi:** https://ko-fi.com/fleurofthelunee>
 
 ## License & credits
 MIT License.  
