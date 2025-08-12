@@ -24,7 +24,7 @@ Add a simple, click-only calendar overlay to **Letterboxd watchlist** pages.
 ## Install
 1. Install **Tampermonkey** (Chrome or Safari).
 2. Open the raw script URL and accept the install:  
-   `https://raw.githubusercontent.com/<YOURNAME>/lbxd-watchlist-calendar/main/lbxd-watchlist-calendar.user.js`
+   `https://raw.githubusercontent.com/<fleurofthelune>/lbxd-watchlist-calendar/main/lbxd-watchlist-calendar.user.js`
 3. Visit your Letterboxd **watchlist** and click **Calendar** (or press Alt/⌥+C).
 
 ## Usage tips
