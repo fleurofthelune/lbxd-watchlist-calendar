@@ -190,7 +190,7 @@
       + '<div class="lbxd-grid"></div>'
       + '<div class="lbxd-footer">'
         + '<button class="lbxd-btn lbxd-close2">Close</button>'
-        + '<button class="lbxd-btn lbxd-donate">Donate</button>'
+        + '<button class="lbxd-btn lbxd-donate">🧡💚💙</button>'
       + '</div>'
     + '</div>'
   + '</div>';
